@@ -26,6 +26,10 @@ Crop Price Prediction
 The Crop Price Prediction model uses historical price data to predict future prices for various crops. It is built using machine learning algorithms that analyze patterns in past prices, market trends, and external factors like weather conditions, inflation, etc.
 
 Key features of this model include:
+Chatbot Integration
+A chatbot powered by GAIA-Net has been integrated to provide real-time assistance on crop diseases, price predictions, and crop recommendations. It answers queries related to disease identification, future crop prices, and suitable crops based on environmental data.
+
+This streamlined system supports farmers with actionable insights, ensuring better crop selection, financial planning, and disease management.
 
 Historical price analysis
 Market trend prediction
